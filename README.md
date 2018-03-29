@@ -4,7 +4,7 @@
 <p>Compilador não encontra caminho para os arquivos JFreeChart.</p>
 <code>Informar localização manualmente no diretório "..\PsiqueSis\jfreechart-1.0.19\jfreechart-1.0.19\lib".</code>
 <h2>Usuários para testes</h2>
-<h4>Funcionário<h4>
+<h4>Funcionário</h4>
 <p>Consegue enxergar as informações de contatos por agendamento realizado.</p>
 <p>Usuário: admin</p> 
 <p>Senha: 123</p>
