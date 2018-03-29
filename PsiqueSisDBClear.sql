@@ -226,18 +226,6 @@ CREATE TABLE IF NOT EXISTS `pacientepossuilocalizacao` (
 -- Extraindo dados da tabela `pacientepossuilocalizacao`
 --
 
-INSERT INTO `pacientepossuilocalizacao` (`idLocalizacao`, `idPaciente`) VALUES
-(1, 0),
-(2, 0),
-(1, 14),
-(5, 14),
-(2, 15),
-(6, 16),
-(8, 16),
-(4, 17),
-(4, 18),
-(6, 19),
-(4, 20);
 
 -- --------------------------------------------------------
 
