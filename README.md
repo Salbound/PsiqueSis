@@ -1,4 +1,4 @@
-<h1>PsiqueSys - Sistema gerenciador para clínica de psicologia</h1>
+<h1>PsiqueSis - Sistema gerenciador para clínica de psicologia</h1>
 <p>Segundo trabalho interdisciplinar desenvolvido no curso ADS na instituição IFSP para Dra. Fernanda A. Forti com fim acadêmico. O projeto foi desenvolvido em duas aplicações, sendo um desktop utilizando linguagem Java e outro Web com as funcionalidades de gerenciar consultas.</p>
 <h2>Erros</h2>
 <p>Compilador não encontra caminho para os arquivos JFreeChart.</p>
