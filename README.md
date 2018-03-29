@@ -1,5 +1,30 @@
 <h1>PsiqueSis - Sistema gerenciador para clínica de psicologia</h1>
-<p>Segundo trabalho interdisciplinar desenvolvido no curso ADS na instituição IFSP para Dra. Fernanda A. Forti com fim acadêmico. O projeto foi desenvolvido em duas aplicações, sendo um desktop utilizando linguagem Java e outro Web com as funcionalidades de gerenciar consultas.</p>
+<p>Segundo trabalho interdisciplinar desenvolvido no curso ADS na instituição IFSP para Dra. Fernanda A. Forti com fim acadêmico.</p>
+<hr>
+<h2>Resumo projeto</h2>
+<p>A utilização de um sistema da informação em uma Clínica de Psicologia pode automatizar, melhorar e tornar mais eficiente e dinâmico o controle do atendimento aos clientes. Dado que, todo o gerenciamento das consultas será controlado a partir do sistema. A busca e controle das informações dos pacientes serão aprimorados também, visto que, a aplicação consegue armazenar os dados, além de permitir pesquisas e divulgações dos mesmos para os pacientes.</p>
+<p>O controle financeiro será contemplado, possibilitando o gerenciamento das dívidas, a visualização dos pagamentos vindo dos pacientes e das empresas que terceirizam a clínica.</p>
+<p>Por fim, a clínica possuirá um website, no qual haverá informações de divulgação e o controle dos próprios pacientes sobre suas consultas, possibilitando averiguações de horários e solicitações de agendamentos.
+</p>
+<hr>
+<h2>Critérios de aceitação</h2>
+<ul>
+   <li>Java</li>
+    <ul>
+        <li>Desenvolvimento em arquitetura MVC;</li>
+        <li>Utilização de sockets;</li>
+        <li>Utilização de padrões de projetos;</li>
+        <li>Documentação em JavaDoc.</li>
+    </ul>
+    <li>WEB</li>
+    <ul>
+        <li>Registrar domínio e fazer upload do site;</li>
+        <li>Pelo menos uma página em 3 idiomas, gerenciando via file inputs;</li>
+        <li>Utilização de Cookies para idioma e paleta de cor;</li>
+        <li>Anti-injection em dados.</li>
+    </ul>
+</ul>
+<hr>
 <h2>Erros</h2>
 <ul>
     <li>Compilador não encontra caminho para os arquivos JFreeChart.</li>
@@ -10,13 +35,14 @@
     // WEB: conexao.inc.php linha 2 <br>
     estão devidamente preenchida com o banco MySql local</code><br>
 </ul>
+<hr>
 <h2>Usuários para testes</h2>
 <table style="text-align: left">
     <thead>
         <tr>
             <th>Usuário</th>
             <th>Senha</th>
-            <th>Nivel</th>
+            <th>Nível</th>
             <th>Descrição</th>
         </tr>
     </thead>
