@@ -2,7 +2,7 @@
 <p>Segundo trabalho interdisciplinar desenvolvido no curso ADS na instituição IFSP para Dra. Fernanda A. Forti com fim acadêmico. O projeto foi desenvolvido em duas aplicações, sendo um desktop utilizando linguagem Java e outro Web com as funcionalidades de gerenciar consultas.</p>
 <h2>Erros</h2>
 <p>Compilador não encontra caminho para os arquivos JFreeChart.</p>
-<code>Informar localização manualmente no directório "..\PsiqueSis\jfreechart-1.0.19\jfreechart-1.0.19\lib".</code>
+<code>Informar localização manualmente no diretório "..\PsiqueSis\jfreechart-1.0.19\jfreechart-1.0.19\lib".</code>
 <h2>Usuários para testes</h2>
 <h4>Funcionário<h4>
 <p>Consegue enxergar as informações de contatos por agendamento realizado.</p>
