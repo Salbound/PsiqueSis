@@ -14,7 +14,7 @@
 <p>Usuário: samuel.silva</p>
 <p>Senha: 123</p>
 
-<h4>==Paciente==</h4>
+<h4>Paciente</h4>
 <p>Faz consulta dos agendamentos realizados.</p>
 <p>Usuário: mario.claudio</p>
 <p>Senha: 123</p>
